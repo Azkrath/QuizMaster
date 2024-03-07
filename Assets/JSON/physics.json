@@ -1,0 +1,55 @@
+{
+    "questions": [
+        {
+            "question": "What is the speed of light in vacuum?",
+            "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+            "correct_answer": 1
+        },
+        {
+            "question": "Which physicist is known for the theory of relativity?",
+            "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Max Planck"],
+            "correct_answer": 3
+        },
+        {
+            "question": "What is the smallest unit of matter?",
+            "options": ["Atom", "Molecule", "Electron", "Quark"],
+            "correct_answer": 4
+        },
+        {
+            "question": "What force keeps us on the ground?",
+            "options": ["Magnetic Force", "Gravitational Force", "Electrostatic Force", "Nuclear Force"],
+            "correct_answer": 2
+        },
+        {
+            "question": "What is the unit of electrical resistance?",
+            "options": ["Ampere", "Ohm", "Volt", "Watt"],
+            "correct_answer": 2
+        },
+        {
+            "question": "Who discovered the electron?",
+            "options": ["JJ Thomson", "James Chadwick", "Ernest Rutherford", "Dmitri Mendeleev"],
+            "correct_answer": 1
+        },
+        {
+            "question": "What type of wave is light?",
+            "options": ["Sound Wave", "Transverse Wave", "Longitudinal Wave", "Seismic Wave"],
+            "correct_answer": 2
+        },
+        {
+            "question": "What does E=mc² represent?",
+            "options": ["Energy Conservation", "Momentum", "Mass-Energy Equivalence", "Speed of Light"],
+            "correct_answer": 3
+        },
+        {
+            "question": "What is absolute zero?",
+            "options": ["0°C", "0°F", "0 K", "-273.15°C"],
+            "correct_answer": 3
+        },
+        {
+            "question": "What device is used to measure electric current?",
+            "options": ["Voltmeter", "Ammeter", "Thermometer", "Barometer"],
+            "correct_answer": 2
+        }
+    ]
+}
+

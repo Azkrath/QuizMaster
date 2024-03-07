@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is a common method for protecting sensitive data?",
+            "options": ["Encryption", "Compression", "Fragmentation", "Magnification"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which of the following is a type of malware?",
+            "options": ["Firewall", "Antivirus", "Ransomware", "Router"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is 'phishing'?",
+            "options": ["A hacking technique", "A type of software", "A data encryption method", "A network protocol"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which of these is a common cybersecurity practice?",
+            "options": ["Using simple passwords", "Frequent software updates", "Ignoring security alerts", "Sharing passwords"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does 'VPN' stand for?",
+            "options": ["Virtual Private Network", "Virus Protection Notification", "Variable Path Navigation", "Visual Public Network"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the purpose of a firewall?",
+            "options": ["Data analysis", "Network security", "Data storage", "Improving speed"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does 'SSL' stand for?",
+            "options": ["Secure Sockets Layer", "System Security License", "Safe Software Link", "Standard Security Level"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is 'Two-Factor Authentication'?",
+            "options": ["A double login screen", "Two passwords for one account", "An additional security step after password", "A dual monitor setup"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What does 'DDoS' stand for?",
+            "options": ["Digital Data Operating System", "Direct Denial of Service", "Distributed Denial of Service", "Dual Disk Operating System"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is a 'Trojan Horse' in the context of cybersecurity?",
+            "options": ["A secure network", "A strong password", "A type of anti-virus", "A type of malware"],
+            "correctAnswer": 3
+        }
+    ]
+}

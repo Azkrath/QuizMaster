@@ -1,0 +1,404 @@
+{
+    "questions": [
+        {
+            "question": "What is a common technique used in penetration testing to exploit SQL vulnerabilities?",
+            "options": [
+                "Phishing",
+                "SQL Injection",
+                "Brute Force",
+                "DDoS Attack"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What type of cyber attack involves overwhelming a service with excessive requests?",
+            "options": [
+                "Man-in-the-Middle Attack",
+                "Phishing",
+                "SQL Injection",
+                "DDoS Attack"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Which tool is commonly used for network sniffing?",
+            "options": [
+                "Nmap",
+                "Wireshark",
+                "Metasploit",
+                "Nessus"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the main purpose of a rootkit?",
+            "options": [
+                "Data Encryption",
+                "System Monitoring",
+                "Gaining Admin Privileges",
+                "Password Cracking"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which of the following is essential for maintaining confidentiality in data transmission?",
+            "options": [
+                "Data Analysis",
+                "Encryption",
+                "Data Duplication",
+                "Compression"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does 'SSH' stand for in cybersecurity?",
+            "options": [
+                "Secure Shell",
+                "System Security Hub",
+                "Secure Socket Hypertext",
+                "System Shell"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "In cybersecurity, what does 'APT' stand for?",
+            "options": [
+                "Advanced Persistent Threat",
+                "Automated Program Tool",
+                "Application Protocol TCP",
+                "Advanced Protocol Test"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the primary function of a 'botnet'?",
+            "options": [
+                "Data Recovery",
+                "Distributed Denial of Service Attacks",
+                "Network Security",
+                "Software Testing"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which type of malware disguises itself as legitimate software?",
+            "options": [
+                "Ransomware",
+                "Trojan",
+                "Spyware",
+                "Adware"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the main characteristic of a 'zero-day' exploit?",
+            "options": [
+                "Targeting outdated systems",
+                "Being known by software vendors",
+                "Exploiting a vulnerability on the same day it becomes known",
+                "High complexity and low impact"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What technique involves attackers inserting themselves into a conversation between two parties?",
+            "options": [
+                "Phishing",
+                "SQL Injection",
+                "Man-in-the-Middle Attack",
+                "Cross-Site Scripting"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which tool is primarily used for automated password cracking?",
+            "options": [
+                "John the Ripper",
+                "Wireshark",
+                "Metasploit",
+                "Burp Suite"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "In cybersecurity, what is a 'Blue Team'?",
+            "options": [
+                "The attacking team",
+                "The defensive team",
+                "The team that manages software updates",
+                "The network maintenance team"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the purpose of 'steganography'?",
+            "options": [
+                "Data Destruction",
+                "Data Encryption",
+                "Hiding Data within Other Data",
+                "Data Duplication"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What does 'CIA' stand for in the context of information security?",
+            "options": [
+                "Confidentiality, Integrity, Availability",
+                "Central Intelligence Agency",
+                "Computer Interface Architecture",
+                "Cyber Information Assurance"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What kind of cybersecurity attack is typically launched through email?",
+            "options": [
+                "Phishing",
+                "Brute Force",
+                "SQL Injection",
+                "Trojan Attack"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which protocol is used for securely accessing remote servers?",
+            "options": [
+                "HTTP",
+                "SSH",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the primary function of 'antivirus' software?",
+            "options": [
+                "Monitoring network traffic",
+                "Speeding up the computer",
+                "Detecting and removing malware",
+                "Encrypting data"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which is a method to verify the integrity of transmitted data?",
+            "options": [
+                "Encryption",
+                "Tokenization",
+                "Checksum",
+                "Fragmentation"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the main goal of 'social engineering' in cybersecurity?",
+            "options": [
+                "Physical break-ins",
+                "Manipulating people to gain confidential information",
+                "Software development",
+                "Networking"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is 'cross-site scripting' commonly known as?",
+            "options": [
+                "XSS",
+                "CSS",
+                "SQLi",
+                "XSRF"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which type of attack involves inserting scripts into web pages viewed by others?",
+            "options": [
+                "Phishing Attack",
+                "SQL Injection",
+                "Cross-Site Scripting",
+                "Buffer Overflow"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What does 'OSINT' stand for in cybersecurity?",
+            "options": [
+                "Open Source Intrusion Network Technology",
+                "Operating System Internal Net",
+                "Open Source Intelligence",
+                "Optimal Security Internet Networking"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the main goal of a penetration test?",
+            "options": [
+                "Strengthening a network's security",
+                "Stealing data",
+                "Disrupting service",
+                "Spying on competitors"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which cybersecurity framework focuses on incident response?",
+            "options": [
+                "ISO/IEC 27001",
+                "NIST",
+                "PCI DSS",
+                "COBIT"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is a 'watering hole' attack?",
+            "options": [
+                "A DDoS attack",
+                "An attack on physical infrastructure",
+                "A crypto-mining attack",
+                "Compromising a popular website to target its users"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What is the purpose of 'lateral movement' in a network?",
+            "options": [
+                "Spreading a virus",
+                "Expanding control within a compromised network",
+                "Improving network performance",
+                "Redirecting data flow"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In cybersecurity, what does 'MFA' stand for?",
+            "options": [
+                "Multi-Factor Authentication",
+                "Managed File Access",
+                "Malware Forensics Analysis",
+                "Main Frame Attack"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which type of attack is characterized by the exploitation of a vulnerability before it's known to the vendor?",
+            "options": [
+                "DDoS Attack",
+                "Phishing Attack",
+                "Zero-Day Attack",
+                "Man-in-the-Middle Attack"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is a common method for securely disposing of old hard drives?",
+            "options": [
+                "Recycling",
+                "Shredding",
+                "Formatting",
+                "Donating"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which technique disguises a malicious payload as an innocent file to bypass security controls?",
+            "options": [
+                "Spear phishing",
+                "Fileless attack",
+                "Trojan",
+                "Ransomware"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "In cybersecurity, what does 'SIEM' stand for?",
+            "options": [
+                "System Intrusion Elimination Mechanism",
+                "Security Information and Event Management",
+                "Structured Internet Exchange Model",
+                "Secure Integrated Encryption Module"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which method is used to protect sensitive data by transforming it into an unreadable format?",
+            "options": [
+                "Tokenization",
+                "Checksum",
+                "Encryption",
+                "Obfuscation"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the purpose of a 'sandbox' in cybersecurity?",
+            "options": [
+                "To isolate and test untrusted code",
+                "For data encryption",
+                "To store sensitive data",
+                "To enhance network speed"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What type of attack is characterized by exploiting hardware vulnerabilities?",
+            "options": [
+                "Rootkit attack",
+                "Buffer overflow",
+                "Side-channel attack",
+                "Phishing"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is 'chain of custody' important for in cybersecurity investigations?",
+            "options": [
+                "Incident response planning",
+                "Evidence integrity",
+                "User authentication",
+                "Data encryption"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In what scenario is 'risk transfer' a viable cybersecurity strategy?",
+            "options": [
+                "Using antivirus software",
+                "Outsourcing network security",
+                "Purchasing cybersecurity insurance",
+                "Implementing strong passwords"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the primary focus of 'cyber forensics'?",
+            "options": [
+                "Preventing cyber attacks",
+                "Analyzing digital evidence",
+                "Encrypting data",
+                "Monitoring network traffic"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which term refers to the unauthorized tracking of user actions by third parties?",
+            "options": [
+                "Phishing",
+                "Adware",
+                "Spyware",
+                "Ransomware"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the main characteristic of 'end-to-end encryption'?",
+            "options": [
+                "Data is encrypted on the sender's end only",
+                "Data cannot be decrypted",
+                "Data is encrypted during transit and at rest",
+                "Only the communicating users can read the data"
+            ],
+            "correctAnswer": 3
+        }
+    ]
+}

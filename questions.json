@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "question": "Qual é a capital de Portugal?",
+            "options": ["Porto", "Lisboa", "Braga", "Faro"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Qual é o rio mais longo de Portugal?",
+            "options": ["Rio Douro", "Rio Mondego", "Rio Tejo", "Rio Guadiana"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual destes exploradores é português?",
+            "options": ["Cristóvão Colombo", "Américo Vespúcio", "Marco Polo", "Vasco da Gama"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Qual é o tipo de música tradicional mais conhecida de Portugal?",
+            "options": ["Flamenco", "Tango", "Samba", "Fado"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Onde é localizada a famosa torre de Belém?",
+            "options": ["Porto", "Coimbra", "Lisboa", "Faro"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual é o prato tradicional de bacalhau mais conhecido?",
+            "options": ["Bacalhau com Natas", "Bacalhau Cozido", "Bacalhau à Brás", "Bacalhau à Gomes de Sá"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Que cidade é famosa por suas caves de vinho do Porto?",
+            "options": ["Porto", "Lisboa", "Vila Nova de Gaia", "Braga"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Onde está localizado o Palácio Nacional da Pena?",
+            "options": ["Porto", "Lisboa", "Sintra", "Faro"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual destas sobremesas portuguesas é feita de gemas de ovos e açúcar?",
+            "options": ["Pastel de Belém", "Arroz Doce", "Ovos Moles de Aveiro", "Pudim Flan"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Em que ano Portugal sediou o campeonato de Futebol Europeu?",
+            "options": ["2000", "2004", "2008", "2012"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Qual é o nome da famosa ponte suspensa no Porto?",
+            "options": ["Ponte Vasco da Gama", "Ponte 25 de Abril", "Ponte Dom Luís I", "Ponte de São João"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual é a região de Portugal conhecida pelos seus vinhos verdes?",
+            "options": ["Alentejo", "Douro", "Algarve", "Minho"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Que navegador português foi o primeiro a chegar à Índia por mar?",
+            "options": ["Pedro Álvares Cabral", "Fernão de Magalhães", "Vasco da Gama", "Bartolomeu Dias"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual é a cidade mais antiga de Portugal?",
+            "options": ["Porto", "Guimarães", "Braga", "Coimbra"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Que fruta é tradicionalmente produzida na Ilha da Madeira?",
+            "options": ["Laranja", "Banana", "Maçã", "Kiwi"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Onde está localizado o Santuário de Fátima?",
+            "options": ["Lisboa", "Porto", "Fátima", "Braga"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual é o estilo arquitetônico predominante do Mosteiro da Batalha?",
+            "options": ["Barroco", "Românico", "Manuelino", "Gótico"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Qual destes escritores é um famoso poeta português?",
+            "options": ["Eça de Queiroz", "Fernando Pessoa", "José Saramago", "Miguel Torga"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Qual cidade portuguesa é conhecida como a 'Veneza de Portugal'?",
+            "options": ["Aveiro", "Braga", "Coimbra", "Porto"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Que produto é a principal exportação de Portugal?",
+            "options": ["Vinho", "Azeite", "Cortiça", "Queijo"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Que cidade portuguesa é famosa pela sua universidade, uma das mais antigas da Europa?",
+            "options": ["Lisboa", "Porto", "Coimbra", "Braga"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual é o ponto mais ocidental da Europa continental, localizado em Portugal?",
+            "options": ["Cabo da Roca", "Cabo Espichel", "Cabo de São Vicente", "Cabo Mondego"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Qual destas é uma sobremesa tradicional portuguesa?",
+            "options": ["Mousse de chocolate", "Tiramisu", "Pastel de nata", "Leite Creme"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual é o nome do famoso vinho fortificado produzido na região do Douro?",
+            "options": ["Vinho Verde", "Chardonnay", "Vinho do Porto", "Merlot"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual destes castelos fica na cidade de Sintra?",
+            "options": ["Castelo dos Mouros", "Castelo de São Jorge", "Castelo de Óbidos", "Castelo de Guimarães"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Qual é o nome do tradicional fado português caracterizado por ser mais alegre e rápido?",
+            "options": ["Fado Mouraria", "Fado Castiço", "Fado Corrido", "Fado Menor"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Em que região de Portugal se encontra a famosa 'Rota Vicentina' para caminhadas?",
+            "options": ["Norte", "Centro", "Costa", "Interior"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual destes rios nasce em Espanha e desagua no Oceano Atlântico, em Portugal?",
+            "options": ["Rio Minho", "Rio Douro", "Rio Tejo", "Rio Guadiana"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual é a festa popular em Portugal que celebra os três Santos Populares?",
+            "options": ["Festa de São João", "Carnaval", "Festa dos Tabuleiros", "Santos Populares"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Qual é a tradicional sopa portuguesa feita com couve, batata e chouriço?",
+            "options": ["Sopa da Pedra", "Caldo Verde", "Canja de Galinha", "Açorda Alentejana"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Em que ano Portugal se tornou um reino independente?",
+            "options": ["1143", "1385", "1580", "1640"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Quem foi o primeiro rei de Portugal?",
+            "options": ["D. Afonso I", "D. Sancho I", "D. João I", "D. Sebastião"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Qual foi o período da história portuguesa conhecido como 'Época dos Descobrimentos'?",
+            "options": ["Século XII ao XIV", "Século XV ao XVI", "Século XVII ao XVIII", "Século XIX ao XX"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Que tratado dividiu o mundo em duas partes para exploração por Portugal e Espanha?",
+            "options": ["Tratado de Tordesilhas", "Tratado de Alcáçovas", "Tratado de Madrid", "Pacto Ibérico"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Quem foi o infante que impulsionou os Descobrimentos portugueses?",
+            "options": ["D. Henrique", "D. João II", "D. Manuel I", "D. Pedro I"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Qual é a dinastia fundadora da monarquia portuguesa?",
+            "options": ["Dinastia de Bragança", "Dinastia de Avis", "Dinastia de Borgonha", "Dinastia de Viseu"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Que revolução em Portugal levou à queda da monarquia em 1910?",
+            "options": ["Revolução Liberal", "Revolução dos Cravos", "Implantação da República", "Revolução Popular"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qual foi o motivo principal da crise de 1383-1385 em Portugal?",
+            "options": ["Morte do rei sem herdeiros", "Guerra com Espanha", "Peste Negra", "Revolta popular"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Que rainha portuguesa é famosa pela sua devoção ao povo e pela 'Lenda das Rosas'?",
+            "options": ["D. Maria I", "D. Catarina de Bragança", "D. Leonor de Viseu", "D. Isabel de Aragão"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Em que ano ocorreu a Revolução dos Cravos em Portugal?",
+            "options": ["1945", "1968", "1974", "1982"],
+            "correctAnswer": 2
+        }
+    ]
+}
