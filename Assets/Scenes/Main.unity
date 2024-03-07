@@ -1139,7 +1139,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f1338d9b0c5b4d3a9edf361b860c929, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiURL: https://azkrath.github.io/QuizMaster/questions.json
+  apiURL: https://raw.githubusercontent.com/Azkrath/QuizMaster/main/questions.json
 --- !u!4 &1767175663
 Transform:
   m_ObjectHideFlags: 0
